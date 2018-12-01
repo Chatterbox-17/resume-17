@@ -1,0 +1,53 @@
+{
+	"profile":{
+		"img":"download.jpg",
+		"name":"SUSEELA",
+		"rollno":"16NN1A1217",
+		"institute":"vignan"
+	},
+	"career":{
+		"info":"I want to excel in this field with hard work, perseverance and dedication."
+	},
+	"education":[
+   {
+   	"degree":"b.tech",
+   "institution":"vignan",
+   "yop":"2020"
+   },
+{
+"degree":"intermediate",
+"institution":"narayana junior college",
+"yop":"2016"
+},
+{
+	"degree":"s.s.c",
+	"institution":"montessori public school",
+	"yop":"2014"
+}
+],
+    "languages":[
+{
+	"lang":"telugu"
+ },
+ {
+ 	"lang":"english"
+  },
+  {
+  	"lang":"hindi"
+   }
+],
+"skills":[
+{
+	"title":"platforms",
+	"content":"windows,linux"
+},
+{
+	"title":"programming",
+	"content":"c,c++,java"
+},
+{
+	"title":"database",
+	"content":"mysql"
+   }
+]
+}
